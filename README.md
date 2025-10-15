@@ -1,6 +1,6 @@
 # Intelligent Dashboard
 
-![Full Dashboard View](src/imgs/dashboard_view.png)
+![Full Dashboard View](src/imgs/img1.png)
 
 ## 📖 About The Project
 
