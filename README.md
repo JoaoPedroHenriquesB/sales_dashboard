@@ -25,7 +25,7 @@ The main goal is to provide a hands-on example of how to build a simple, yet pow
     *   Sales Over Time (Bar Chart)
     *   Payment Method Distribution (Pie Chart)
 
-![KPI Section](src/imgs/kpi_section.png)
+![KPI Section](/imgs/kpi.png)
 
 ---
 
@@ -33,7 +33,7 @@ The main goal is to provide a hands-on example of how to build a simple, yet pow
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/inteligent-dashboard.git
+    git clone https://github.com/JoaoPedroHenriquesB/sales_dashboard.git
     cd inteligent-dashboard
     ```
 
@@ -49,7 +49,7 @@ The main goal is to provide a hands-on example of how to build a simple, yet pow
 
 4.  Open your browser and navigate to the local URL provided by Streamlit. Use the sidebar to upload your CSV file.
 
-![File Uploader](src/imgs/sidebar_upload.png)
+![File Uploader](/imgs/sidebar.png)
 
 ---
 
@@ -82,5 +82,9 @@ If your CSV file uses different names for these columns, the application will fa
 !Charts Example
 
 ---
+
+![Cities](/imgs/img2.png)
+![Months](/imgs/img4.png)
+![Payment Methods](/imgs/img5.png)
 
 This project serves as a practical exercise in data analysis and visualization with Python. Feel free to fork it, experiment with it, and expand its capabilities!
